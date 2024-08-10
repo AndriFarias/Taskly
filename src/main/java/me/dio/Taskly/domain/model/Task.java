@@ -98,4 +98,3 @@ public class Task {
         this.responsible = responsible;
     }
 }
-
